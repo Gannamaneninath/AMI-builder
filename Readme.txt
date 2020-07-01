@@ -1,0 +1,1 @@
+Launching Golden AMI with Packer
